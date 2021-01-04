@@ -10,7 +10,7 @@ namespace SmartImageAnalysis
 {
     class Program
     {
-        const string API_key = "7302a0fa5aeb4fff956365e050c3051f";
+        const string API_key = "<API Key Goes Here>";
         const string API_location = "https://southcentralus.api.cognitive.microsoft.com/vision/v1.0/";
 
         static void Main(string[] args)
